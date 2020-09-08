@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm 嘟嘟噜 👋
+
+精通 `CVM开发模式`，面向 `Google` 编程
+
+[![](https://img.shields.io/badge/-https://dudulu.sakura10032.club-6A5FBB?style=for-the-badge&logo=Internet-Explorer&logoColor=fff)](https://dudulu.sakura10032.club) [![](https://img.shields.io/badge/-wuliuqi10032@163.com-F0652F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wuliuqi10032@163.com)
 
 <!--
 **Sakura10032/Sakura10032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Github Stats
+
+<a href="https://github.com/mokeyjay"><img src="https://github-readme-stats.vercel.app/api?username=mokeyjay&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokeyjay&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+
